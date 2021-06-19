@@ -12,6 +12,7 @@ namespace WiredBrain.ShopInfoTool
         {
             this.coffeeShops = coffeeShops;
             //comment
+            //comment2
         }
 
         public void HandleCommand()
