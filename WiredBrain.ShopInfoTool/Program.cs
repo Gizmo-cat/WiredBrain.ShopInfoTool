@@ -24,7 +24,7 @@ namespace WiredBrain.ShopInfoTool
 
                 if (string.Equals("help", line, StringComparison.OrdinalIgnoreCase))
                 {
-                    Console.WriteLine("> Available coffee shop commands:");
+                    Console.WriteLine("Write 'help' to list available coffee shop commands:");
                     foreach (var coffeeShop in coffeeShops)
                     {
                         Console.WriteLine($"> " + coffeeShop.Location);
