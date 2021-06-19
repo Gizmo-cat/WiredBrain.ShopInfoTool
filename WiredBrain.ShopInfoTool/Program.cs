@@ -9,7 +9,7 @@ namespace WiredBrain.ShopInfoTool
         {
             Console.WriteLine("Welcome to the WiredBrain ShopInfoTool 2021 June");
 
-            Console.WriteLine("Write 'help' to list available commands, write 'quit' to exit app");
+            Console.WriteLine("Write 'help' to list available commands, write 'quit' to exit appln");
 
             var coffeeShopDataProvider = new CoffeeShopDataProvider();
             while (true)
