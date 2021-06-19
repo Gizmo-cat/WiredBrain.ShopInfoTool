@@ -6,7 +6,7 @@ namespace WiredBrain.ShopInfoTool
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the WiredBrain ShopInfoTool");
+            Console.WriteLine("Welcome to the WiredBrain ShopInfoTool 2021");
         }
     }
 }
