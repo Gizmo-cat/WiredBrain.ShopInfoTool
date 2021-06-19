@@ -11,6 +11,7 @@ namespace WiredBrain.ShopInfoTool
         public HelpCommandHandler(IEnumerable<CoffeeShop> coffeeShops)
         {
             this.coffeeShops = coffeeShops;
+            //comment
         }
 
         public void HandleCommand()
