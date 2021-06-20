@@ -11,5 +11,6 @@ namespace WiredBrainCoffee.DataAccess.Model
         public int BeansInStockInKg { get; set; }
         public int PaperCupsInStock { get; set; }
         public string Sunday { get; set; }
+        public string Sunday EVE { get; set; }
     }
 }
