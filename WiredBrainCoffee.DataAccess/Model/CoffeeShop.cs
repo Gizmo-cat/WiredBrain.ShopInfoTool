@@ -1,4 +1,6 @@
-﻿
+﻿/// <summary>
+/// /start
+/// </summary>
 
 namespace WiredBrainCoffee.DataAccess.Model
 {
