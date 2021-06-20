@@ -12,7 +12,7 @@ namespace WiredBrainCoffee.DataAccess.Model
         public int PaperCupsInStock { get; set; }
 
         public string Monday { get; set; }
-
+        public string Tuesday { get; set; }
 
         //On main branch and commenting
     }
